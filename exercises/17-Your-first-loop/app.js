@@ -1,14 +1,11 @@
-/* Done - check tests and clear for student use */
-
-function startCounting()
-{
-	
-	for(var i = 0; i < 100; i++)
-	{
-		console.log(i);
-	}
-	
-	return i;
+//you code here
+for(let i= 1; i<=100 ; i++){
+  console.log("101")
 }
 
-startCounting();
+var i = 100; 
+while (i< 200){
+    console.log("101");
+    i++;
+}
+

@@ -17,6 +17,11 @@ function getColor(colorNumber=0)
 }
 
 function getAllStudentColors(){
+  
+    arr.push(Math.floor(Math.random() * 10));
+ 
+
+}
 	
 	//your loop here
 	var exampleColor = getColor(1);

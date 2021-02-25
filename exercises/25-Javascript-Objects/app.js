@@ -7,6 +7,7 @@ var person = {
     significant_other: person2   //Object, yes the same variable/object defined after
 };
 
+
 var person2 = {
     name: "Jane",
     lastname: "Doe",
@@ -32,7 +33,7 @@ function addAllFamilyLuckyNumbers(anArray){
 }
 
 //Enter all your code here:
-
+console.log()
 
 //Do not make changes below:
 console.log(addAllFamilyLuckyNumbers(family.members)); 

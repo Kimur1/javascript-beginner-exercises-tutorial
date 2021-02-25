@@ -6,10 +6,11 @@ function startCounting()
 	while(counter <= 100)
 	{
 		counter --;
-		console.log(counter);
+    console.log(counter);
+    
 	}
 	
-	return counter;
+	return counter 0;
 }
 
 startCounting();
